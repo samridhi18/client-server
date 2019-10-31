@@ -14,7 +14,7 @@ public class server1 {
 			dis.close();
 		}
 		catch(Exception e) {
-		}
+		}update it;
 		
 		
 		
